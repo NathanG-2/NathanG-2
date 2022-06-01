@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NathanGee
+- 👋 Hi, I’m @NathanG-2
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning C++ & C#
 
