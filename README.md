@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanG-2
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning C++ & C#
+- 🌱 I’m currently learning Swift
 
 <!---
 NathanGee/NathanGee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
